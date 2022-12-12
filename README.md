@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LamideK
+- 👋 Hi, I’m @Lamide
 - 👀 I’m interested in ...well, i'm not quite sure yet...
 - 🌱 I’m currently learning Python Automation (Selenium), and API Management
 - 💞️ I’m looking to collaborate on python projects
