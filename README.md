@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lamide
-- 👀 I’m interested in ...well, i'm not quite sure yet...
-- 🌱 I’m currently learning Python Automation (Selenium), and API Management
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me: 
+- 👀 I’m interested in _
+- 🌱 I’m currently learning _
+- 💞️ I’m looking to collaborate on _
+- 📫 How to reach me:
 
 <!---
 LamideK/LamideK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
